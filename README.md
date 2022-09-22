@@ -1,4 +1,4 @@
-# 芫茜雅楷 / JyunsaiKai
+# 芫茜雅楷 / JyunsaiKaai
 
 An open source Chinese font derived from Klee One (Fontworks).
 
