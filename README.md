@@ -4,11 +4,11 @@
 
 ## 簡介
 
-本字型在[芫荽](https://github.com/ButTaiwan/iansui)的基礎上，加入[霞鶩文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 和 [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 支援的漢字，並且**盡可能**調整字形貼近香港字型標準，總漢字數目高達約 15&nbsp;000 個，適合香港課本使用。
+本字型在[芫荽](https://github.com/ButTaiwan/iansui)的基礎上，加入[霞鶩文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 和 [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 的漢字，並且**盡可能**調整字形貼近香港字型標準，總字數（漢字）高達約 15&nbsp;000 個，適合任何學科領域的香港課本使用。
 
 ## 比較
 
-### 漢字數目
+### 字數
 （包括基本區和擴展區字符，**不包括**兼容區字符）
 * Klee One：8000
 * 霞鶩文楷 GB：8267
