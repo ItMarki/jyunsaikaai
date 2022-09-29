@@ -13,7 +13,7 @@
 * Klee One：8000
 * 霞鶩文楷 GB：8267
 * 芫荽：9778
-* 芫茜雅楷：15&nbsp;269
+* 芫茜雅楷：15&nbsp;270
 * 霞鶩文楷 TC：15&nbsp;277
 * [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)：22&nbsp;270
 
