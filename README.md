@@ -8,6 +8,11 @@
 
 **注意**：現在仍未完全調整來自霞鶩文楷 TC 的字形！
 
+## 預覽
+
+![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/1.png?raw=true)
+![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/2.png?raw=true)
+
 ## 比較
 
 ### 字數
