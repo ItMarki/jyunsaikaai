@@ -51,3 +51,4 @@
 
 ## 鳴謝
 - [Fontworks](http://fontworks.co.jp)（[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）和 [But Ko](https://github.com/ButTaiwan) 提供原字型。
+- [LXGW](https://github.com/lxgw/) 提供有關字型。
