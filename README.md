@@ -6,12 +6,16 @@
 
 本字型在[芫荽](https://github.com/ButTaiwan/iansui)的基礎上，加入[霞鶩文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 和 [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 所收錄的漢字，並且**盡可能**調整字形貼近香港字型標準，總字數（漢字）高達約 15&nbsp;000 個，適合任何學科領域的香港課本使用。
 
-**注意**：現在仍未完全調整來自霞鶩文楷 TC 的字形！
+**注意 1**：現在仍未完全調整來自霞鶩文楷 TC 的字形！
+
+**注意 2**：Light 字重會與其他字重合併，因此您的文書軟件有可能不會展示這個字重，但是 Adobe Illustrator 可以。我正在找方法解決這個問題。望周知！
 
 ## 預覽
 
 ![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/1.png?raw=true)
 ![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/2.png?raw=true)
+![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/3.png?raw=true)
+![a](https://github.com/ItMarki/jyunsaikaai/blob/main/images/4.png?raw=true)
 
 ## 比較
 
